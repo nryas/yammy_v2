@@ -1,0 +1,9 @@
+/Users/nryas/.rbenv/versions/2.2.3/bin/ruby -r ./siteconf20151113-12594-aylwuk.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
